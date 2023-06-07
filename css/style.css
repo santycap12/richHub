@@ -6,7 +6,7 @@ body {
 #caja {
     width: 200px;
     height: 200px;
-    background-color: aqua;
+    background-color: lightskyblue;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,5 +14,5 @@ body {
 .caja2 {
     width: 100px;
     height: 100px;
-    background-color: gold;
+    background-color: white;
 }
