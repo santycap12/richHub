@@ -11,8 +11,17 @@ body {
     align-items: center;
     justify-content: center;
 }
-.caja2 {
-    width: 100px;
+#caja2 {
+    width: 200px;
     height: 100px;
     background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#caja3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: gold;
 }
